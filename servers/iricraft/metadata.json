@@ -10,19 +10,20 @@
     "primaryColor": "#930031",
     "secondaryColor": "#facc48",
     "minecraftVersions": [
-        "1.21.*"
+        "1.21.*",
+        "26.*"
     ],
-    "primaryMinecraftVersion": "1.21.1",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "gameTypes": [
-        "Survival",
-        "Adventure",
-        "Open World"
+        "FFA",
+        "PVP",
+        "Duel"
     ],
     "socials": {
-        "discord": "https://discord.gg/We83Kx89Kw"
+        "discord": "https://discord.gg/kanVSsPsNF"
     }
 }
